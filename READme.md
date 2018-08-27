@@ -1,10 +1,10 @@
-_Pig Dice Game_
+_Quiz-Board_
 
 #### By _Brian Maera_
 
 ## Description
 
-_This web application allows the user to answer a series of questions and outputs the user's score._
+_This web application allows the user to answer a series of questions and outputs the user's score. Available at:https://tomshelby4.github.io/quiz-board-2/ _
 
 ## Specs
 
